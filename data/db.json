@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Mario (マリオ Mario?) é um personagem fictício da franquia e série de jogos eletrônicos Mario da Nintendo, criado pelo desenvolvedor e designer de jogos eletrônicos japonês Shigeru Miyamoto. Servindo como mascote da Nintendo e protagonista homônimo da série, Mario já apareceu em mais de 200 jogos desde sua criação.Mario é retratado como um encanador italiano baixinho rechonchudo e bigodudo vindo do Brooklyn que reside no Reino dos Cogumelos. Ele repetidamente tem a missão de resgatar a Princesa Peach do vilão Bowser, e impedir seus diversos planos de destruir e dominar o reino. Mario também tem outros inimigos ou rivais, incluindo Donkey Kong e Wario. Desde 1991 até 2023, Mario foi dublado por Charles Martinet.[4]Em agosto de 2023, a Nintendo anunciou que Charles Martinet se aposentaria da posição de dublador do Mario e se tornaria Embaixador do Mario.[2] A posição de Embaixador do Mario consiste em ser um representante do personagem e viajar pelo mundo, interagindo com fãs.[5] O dublador Kevin Afghani sucedeu Martinet no jogo Super Mario Bros. Wonder em outubro de 2023.[3]",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Mario (マリオ Mario?) é um personagem fictício da franquia e série de jogos eletrônicos Mario da Nintendo, criado pelo desenvolvedor e designer de jogos eletrônicos japonês Shigeru Miyamoto. Servindo como mascote da Nintendo e protagonista homônimo da série, Mario já apareceu em mais de 200 jogos desde sua criação.Mario é retratado como um encanador italiano baixinho rechonchudo e bigodudo vindo do Brooklyn que reside no Reino dos Cogumelos. Ele repetidamente tem a missão de resgatar a Princesa Peach do vilão Bowser, e impedir seus diversos planos de destruir e dominar o reino. Mario também tem outros inimigos ou rivais, incluindo Donkey Kong e Wario. Desde 1991 até 2023, Mario foi dublado por Charles Martinet.[4]Em agosto de 2023, a Nintendo anunciou que Charles Martinet se aposentaria da posição de dublador do Mario e se tornaria Embaixador do Mario.[2] A posição de Embaixador do Mario consiste em ser um representante do personagem e viajar pelo mundo, interagindo com fãs.[5] O dublador Kevin Afghani sucedeu Martinet no jogo Super Mario Bros. Wonder em outubro de 2023.[3]",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Mario (マリオ Mario?) é um personagem fictício da franquia e série de jogos eletrônicos Mario da Nintendo, criado pelo desenvolvedor e designer de jogos eletrônicos japonês Shigeru Miyamoto. Servindo como mascote da Nintendo e protagonista homônimo da série, Mario já apareceu em mais de 200 jogos desde sua criação.Mario é retratado como um encanador italiano baixinho rechonchudo e bigodudo vindo do Brooklyn que reside no Reino dos Cogumelos. Ele repetidamente tem a missão de resgatar a Princesa Peach do vilão Bowser, e impedir seus diversos planos de destruir e dominar o reino. Mario também tem outros inimigos ou rivais, incluindo Donkey Kong e Wario. Desde 1991 até 2023, Mario foi dublado por Charles Martinet.[4]Em agosto de 2023, a Nintendo anunciou que Charles Martinet se aposentaria da posição de dublador do Mario e se tornaria Embaixador do Mario.[2] A posição de Embaixador do Mario consiste em ser um representante do personagem e viajar pelo mundo, interagindo com fãs.[5] O dublador Kevin Afghani sucedeu Martinet no jogo Super Mario Bros. Wonder em outubro de 2023.[3]",
+      "author": "luigi",
+      "id": "3"
+    }
+  ]
+}
